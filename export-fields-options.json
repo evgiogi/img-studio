@@ -49,7 +49,7 @@
       },
       {
         "value": "socialMedias",
-        "label": "Social medias"
+        "label": "Social media"
       },
       {
         "value": "product",
@@ -67,36 +67,24 @@
     "isExploreVisible": true,
     "options": [
       {
-        "value": "gemo",
-        "label": "G\u00e9mo"
+        "value": "brandOne",
+        "label": "Brand 1"
       },
       {
-        "value": "mellowYellow",
-        "label": "Mellow Yellow"
+        "value": "brandTwo",
+        "label": "Brand 2"
       },
       {
-        "value": "bocage",
-        "label": "Bocage"
+        "value": "brandThree",
+        "label": "Brand 3"
       },
       {
-        "value": "maje",
-        "label": "Maje"
+        "value": "brandFour",
+        "label": "Brand 4"
       },
       {
-        "value": "bash",
-        "label": "Ba&sh"
-      },
-      {
-        "value": "sessun",
-        "label": "Sess\u00f9n"
-      },
-      {
-        "value": "americanVintage",
-        "label": "American Vintage"
-      },
-      {
-        "value": "theKooples",
-        "label": "The Kooples"
+        "value": "brandFive",
+        "label": "Brand 5"
       }
     ]
   },
